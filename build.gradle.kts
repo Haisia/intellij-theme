@@ -23,8 +23,6 @@ repositories {
 // Configure Gradle IntelliJ Plugin
 // Read more: https://plugins.jetbrains.com/docs/intellij/tools-intellij-platform-gradle-plugin.html
 dependencies {
-    implementation("com.fasterxml.jackson.core:jackson-databind:2.20.1")
-
     intellijPlatform {
         create("IC", "2025.1")
         testFramework(org.jetbrains.intellij.platform.gradle.TestFrameworkType.Platform)
@@ -41,22 +39,12 @@ intellijPlatform {
         }
 
         changeNotes = """
-      One Dark Modern UI theme and editor scheme, with Material Icon Theme file icons and colorful tool window icons.
+      One Dark Modern UI theme and editor scheme.
     """.trimIndent()
     }
 }
 
 tasks {
-    processResources {
-        from("assets/icons") {
-            into("icons")
-        }
-        from("assets/material-icons.json")
-        from("assets/color-icons") {
-            into("color-icons")
-        }
-    }
-
     // Set the JVM compatibility versions
     withType<JavaCompile> {
         sourceCompatibility = "21"

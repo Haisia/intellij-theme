@@ -237,35 +237,6 @@
     },
     "ComplexPopup.Header.background": "#21252b"
   },
-  "icons": {
-    "ColorPalette": {
-      "Actions.Grey": "#6f7784",
-      "Actions.Red": "#e06c75",
-      "Actions.Yellow": "#e5c07b",
-      "Actions.Green": "#549e6a",
-      "Actions.Blue": "#528bff",
-      "Actions.GreyInline.Dark": "#7f848eb3",
-      "Objects.Grey": "#6f7784",
-      "Objects.RedStatus": "#e06c75",
-      "Objects.Red": "#e06c75",
-      "Objects.Pink": "#c678dd",
-      "Objects.Yellow": "#e5c07b",
-      "Objects.Green": "#98c379",
-      "Objects.Blue": "#61afef",
-      "Objects.Purple": "#c678dd",
-      "Objects.YellowDark": "#d19a66",
-      "Objects.GreenAndroid": "#98c379",
-      "Checkbox.Background.Default.Dark": "#1d1f23",
-      "Checkbox.Border.Default.Dark": "#3e4452",
-      "Checkbox.Foreground.Selected.Dark": "#abb2bf",
-      "Checkbox.Focus.Wide.Dark": "#528bff",
-      "Checkbox.Focus.Thin.Default.Dark": "#1d1f23",
-      "Checkbox.Focus.Thin.Selected.Dark": "#1d1f23",
-      "Checkbox.Background.Disabled.Dark": "#21252b",
-      "Checkbox.Border.Disabled.Dark": "#3e4452",
-      "Checkbox.Foreground.Disabled.Dark": "#5c6370"
-    }
-  },
   "colors": {
     "chrome": "#21252b",
     "editor": "#282c34",
