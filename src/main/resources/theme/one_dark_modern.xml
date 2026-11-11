@@ -51,7 +51,7 @@
     <option name="MODIFIED_LINES_COLOR" value="D19A66" />
     <option name="QUESTION_HINT" value="2E4280" />
     <option name="RECENT_LOCATIONS_SELECTION" value="3D424B" />
-    <option name="RIGHT_MARGIN_COLOR" value="282C34" />
+    <option name="RIGHT_MARGIN_COLOR" value="4F575F" />
     <option name="SELECTED_INDENT_GUIDE" value="606368" />
     <option name="SELECTED_TEARLINE_COLOR" value="6B6E73" />
     <option name="SELECTION_BACKGROUND" value="404859" />
@@ -500,7 +500,8 @@
     </option>
     <option name="Clojure Line comment">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="08B429" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="Clojure Literal">
@@ -579,7 +580,8 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="08B429" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -602,7 +604,8 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="79828d" />
+        <option name="FOREGROUND" value="08B429" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -669,7 +672,8 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="08B429" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -880,7 +884,8 @@
     </option>
     <option name="GO_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="08B429" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="GO_BUILTIN_CONSTANT">
@@ -925,7 +930,8 @@
     </option>
     <option name="GO_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="08B429" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="GO_LOCAL_FUNCTION">
@@ -959,7 +965,8 @@
     </option>
     <option name="HAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="08B429" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="HAML_FILTER">
@@ -1850,7 +1857,8 @@
     </option>
     <option name="RUBY_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="08B429" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="RUBY_CONSTANT">
@@ -2030,7 +2038,8 @@
     </option>
     <option name="SLIM_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="08B429" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="SLIM_DOCTYPE_KWD">
@@ -2105,7 +2114,8 @@
     </option>
     <option name="SWIFT_SHEBANG_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="08B429" />
+        <option name="BACKGROUND" value="000000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
